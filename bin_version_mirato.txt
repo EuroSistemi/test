@@ -82,8 +82,8 @@
       "aggiornamento": false
     },
     {
-      "numero_seriale": "S67890123456",
-      "aggiornamento": false
+      "numero_seriale": "482D9A1CB2B0",
+      "aggiornamento": true
     },
     {
       "numero_seriale": "T78901234567",
